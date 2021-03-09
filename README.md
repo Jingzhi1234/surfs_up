@@ -23,6 +23,7 @@ weather analysis where I will open the shop in the Oahu.
 ![1.png](Resources/1.png)
 - precipitation for December
 ![3.png](Resources/2.png)
+- -----------------------------------------------------------------------------------
 Above all the statistic we get from the four queries, we see that December is colder
 and tends to have lower temperature, and temperature temperature in June has little
 temperature variation. Moreover, June tends to have more precipitation than December.
