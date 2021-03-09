@@ -1,6 +1,6 @@
 # surfs_up
 
-## Overview of the school district analysis
+## Overview 
 The purpose of this analysis is to help myself to open a Surf n' Shake shop serving
 surfboards and ice cream to locals, tourists, and myself. And I will need real
 investor backing to get this off the ground. And I will need to consider the
