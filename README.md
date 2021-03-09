@@ -10,7 +10,7 @@ weather analysis where I will open the shop in the Oahu.
 - June
 ![1.png](Resources/1.png)
 - December
-![3.png](Resources/2.png)
+![3.png](Resources/3.png)
 - From the two dataframes we get from June and December, we can see the first
   - difference is that the minimum temperature in June is 64 and the minimum
   - temperature in December in is 56, so December is probably colder
@@ -20,8 +20,8 @@ weather analysis where I will open the shop in the Oahu.
 
 ## Summary
 
-![4.png](Resources/1.png)      
-![5.png](Resources/2.png)
+![4.png](Resources/4.png)      
+![5.png](Resources/5.png)
 - -----------------------------------------------------------------------------------
 Above all the statistic we get from the four queries, we see that December is colder
 and tends to have lower temperature, and temperature temperature in June has little
