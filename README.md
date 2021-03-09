@@ -20,9 +20,9 @@ weather analysis where I will open the shop in the Oahu.
 
 ## Summary
 - Precipitation for June
-![4.png](Resources/4.png) 
+![6.png](Resources/6.png) 
 - Precipitation for December
-![5.png](Resources/5.png)
+![7.png](Resources/7.png)
 - -----------------------------------------------------------------------------------
 Above all the statistic we get from the four queries, we see that December is colder
 and tends to have lower temperature, and temperature temperature in June has little
