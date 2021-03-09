@@ -26,7 +26,7 @@ weather analysis where I will open the shop in the Oahu.
 - -----------------------------------------------------------------------------------
 Above all the statistic we get from the four queries, we see that December is colder
 and tends to have lower temperature, and temperature temperature in June has little
-temperature variation. Moreover, June tends to have more precipitation than December.
+temperature variation. Moreover, June tends to have less precipitation than December.
 By analyzing these data, I predict that there will have more consumers to visit the
-shop during June since the weather is much warmer and more precipitation since the shop
+shop during June since the weather is much warmer and less precipitation because the shop
 is for surfing and ice cream.
