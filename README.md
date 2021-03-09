@@ -19,8 +19,9 @@ weather analysis where I will open the shop in the Oahu.
 - The standard deviation of temperature in June is smaller means smaller variation.
 
 ## Summary
-
-![4.png](Resources/4.png)      
+- Precipitation for June
+![4.png](Resources/4.png) 
+- Precipitation for December
 ![5.png](Resources/5.png)
 - -----------------------------------------------------------------------------------
 Above all the statistic we get from the four queries, we see that December is colder
